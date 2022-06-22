@@ -9,7 +9,8 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-
+//My Branch code
+//1st commit
  
 function App() {
   const [mode, setMode] = useState('light'); // Whether dark mode is enabled or not
